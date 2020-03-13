@@ -2,7 +2,7 @@ $ spring init --list
 
 #### 1 新建项目
 ##### 1.1 gradle
-$ spring init -dweb --build gradle myweb
+`$ spring init -dweb --build gradle myweb`
 ##### 1.2 maven
 $ spring init -dweb --build maven myweb_maven
 ##### 1.3 网站新建项目
